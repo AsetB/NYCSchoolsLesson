@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-NYC Schools/Pods-NYC Schools-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework

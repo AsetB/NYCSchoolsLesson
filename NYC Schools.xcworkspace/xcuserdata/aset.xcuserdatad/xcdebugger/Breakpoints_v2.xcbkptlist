@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3E689E34-1E9F-4037-9DB5-F066A07ABD3F"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC3F4BB0-7290-4CD0-A115-4FD07C5F5495"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYC Schools/App/Data Layer/Networking/SchoolDirectoryAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "retrieveSchoolsUsingStandardServices()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B942CCC-EE09-462A-A828-F17BA2DACB6F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYC Schools/App/Data Layer/Networking/SchoolDirectoryAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "retrieveSchoolsUsingStandardServices()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B942CCC-EE09-462A-A828-F17BA2DACB6F - c1a46aa177dbe9f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NYC_Schools.SchoolAPI.retrieveSchoolsUsingStandardServices() -&gt; ()"
+                  moduleName = "NYC Schools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aset/Documents/Udemy/apps/NYC%20Schools/NYC%20Schools/App/Data%20Layer/Networking/SchoolDirectoryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "1B942CCC-EE09-462A-A828-F17BA2DACB6F - c1a46aa177dbe9f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in NYC_Schools.SchoolAPI.retrieveSchoolsUsingStandardServices() -&gt; ()"
+                  moduleName = "NYC Schools"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aset/Documents/Udemy/apps/NYC%20Schools/NYC%20Schools/App/Data%20Layer/Networking/SchoolDirectoryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51551D1F-CF1B-4369-AA07-B2D93682713D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NYC Schools/App/Data Layer/Networking/SchoolDirectoryAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "retrieveSchoolsUsingStandardServices()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
